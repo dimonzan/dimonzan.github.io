@@ -4,3 +4,5 @@ title: Dimon Git Pages
 description: My git pages including some security and crypto researches and tests.
 markdown: kramdown
 google_analytics: G-HKXQW7LP0X
+plugins:
+  - jemoji

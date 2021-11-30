@@ -1,5 +1,6 @@
 # WinTAP (:warning: SCAM)
 
+
 Recently a new token started to be promoted as WinTAP (WTT) in clubhouse and telegram. It's not listed in coinmarketcap yet but marketed as the next DOGE within couple of weeks when listed in exchanges! It looks like as a scam token as many people in the crypto community also believe the same based on the technical evidences and very poor scam marketing strategy (x10 your money by 2 weeks).
 
 ## Website
@@ -91,6 +92,7 @@ It is not an automated selling process and ask buyers to send trx hash and walle
 
 <details>
   <summary markdown="span">Source</summary>
+
 ~~~ solidity
 /**
  *Submitted for verification at BscScan.com on 2021-05-29
